@@ -9,8 +9,10 @@
 ## 🌸 About me
 
 * 💡 I love learning new things
-* 🎀 I enjoy minimalistic and organized styles
+* 🎀 My hobbies include sewing, embroidery, and reading.
 * 📚 Always studying and improving
+* 🗾 Japanese language student
+* 🇺🇸 English language proficiency, advanced level, certified by the TOEFL exam.
 
 ---
 
