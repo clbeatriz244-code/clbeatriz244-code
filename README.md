@@ -1,16 +1,70 @@
-## Hi there 👋
+# ✨ Hi, I'm Beatriz!
 
-<!--
-**clbeatriz244-code/clbeatriz244-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering student
+🌱 Currently learning Java, Spring Boot and backend development
+🎯 Focused on growing in the tech field
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About me
+
+* 💡 I love learning new things
+* 🎀 I enjoy minimalistic and organized styles
+* 📚 Always studying and improving
+
+---
+
+## 💼 Experience
+
+👩‍💻 Trainee at LTM
+
+* Working with technology and development in a professional environment
+* Gaining hands-on experience with real-world systems and business solutions
+
+🌐 Network Intern at Samsung
+
+* Supported networking activities and infrastructure tasks
+* Gained experience with network concepts and enterprise environments
+
+👩‍🏫 Programming Instructor & Developer
+
+* Teaching programming concepts and supporting students in their learning journey
+* Working with development projects and technical solutions
+
+📊 Background in Business Administration
+
+* Knowledge in business management and organizational processes
+
+---
+
+## 🛠️ Technologies
+
+* Java ☕
+* Spring Boot 🌱
+* JavaScript 💛
+* Node.js 🌐
+* Python 🐍
+* Django 🎯
+* HTML & CSS 🎨
+* SQL 🗄️
+* PostgreSQL 🐘
+* MariaDB 💾
+
+---
+
+## 🚀 Projects
+
+📌 In progress: **Spring Boot Blog API**
+📌 Studies: **Spring Boot fundamentals and backend development**
+
+---
+
+## 🎓 Education
+
+🎓 Computer Engineering (in progress)
+
+---
+
+## 💖 Contact
+
+* LinkedIn: https://www.linkedin.com/in/beatriz-campos-lima/
